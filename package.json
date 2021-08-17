@@ -1,0 +1,25 @@
+{
+  "name": "lovecalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "love.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d lovecalculator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceMargaret/lovecalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceMargaret/lovecalculator/issues"
+  },
+  "homepage": "https://github.com/PrinceMargaret/lovecalculator"
+}
